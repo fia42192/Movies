@@ -1,1 +1,1 @@
-print("Hello World!")
+name = ["Jakub", "Tom", "Dan", "Jiří", "Miluška", "Petr", "Matěj", "Lukáš", "Adam", "Kuba"]
